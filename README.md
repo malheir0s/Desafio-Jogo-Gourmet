@@ -10,5 +10,7 @@ server> npm install
 Executar o codigo:
 
 server> npm start
-ou
+
+ou:
+
 server/src> node server.js
